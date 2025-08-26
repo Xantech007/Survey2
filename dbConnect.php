@@ -1,6 +1,6 @@
 <?php
 $host = "sql100.infinityfree.com";
-$port = 21; 
+$port = 3306; 
 $dbname = "if0_39792521_survey2";
 $username = "if0_39792521";
 $password = "XUw97FL4b9V";
