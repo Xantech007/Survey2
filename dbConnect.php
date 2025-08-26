@@ -1,9 +1,9 @@
 <?php
-$host = "localhost";
-$port = 3306; 
-$dbname = "projectx";
-$username = "root";
-$password = "";
+$host = "sql100.infinityfree.com";
+$port = 21; 
+$dbname = "if0_39792521_survey2";
+$username = "if0_39792521";
+$password = "XUw97FL4b9V";
 
 try {
     $pdo = new PDO("mysql:host=$host;port=$port;dbname=$dbname;charset=utf8mb4", $username, $password);
